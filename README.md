@@ -1,6 +1,6 @@
 # Chat TCP/IP 📩
 
-This app is a chat thart implements the TCP/IP protocol. It allows you to chat with anyone connected on the same network, here you can have a private and secure chat. You can create an account, add or remove friends and chat whith them. 
+This app is a chat thart implements the TCP/IP protocol and was a university project. It allows you to chat with anyone connected on the same network, here you can have a private and secure chat. You can create an account, add or remove friends and chat whith them. 
 
 
 # Getting Started
